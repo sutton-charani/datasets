@@ -1,2 +1,2 @@
 # datasets
-devtools::source_url("https://github.com/tonybreyal/Blog-Reference-Functions/blob/master/R/bingSearchXScraper/bingSearchXScraper.R?raw=TRUE")
+devtools::source_url("https://raw.githubusercontent.com/sutton-charani/datasets/main/dark_triade.R")
